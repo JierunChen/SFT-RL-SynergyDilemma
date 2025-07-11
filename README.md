@@ -1,4 +1,9 @@
-# The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://www.arxiv.org/pdf/2507.07562)
+# The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs
+
+<p align="center">
+<a href="https://www.arxiv.org/pdf/2507.07562" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-2507.07562-b31b1b.svg?style=flat" /></a>
+</p>
 
 
 ![image/png](assets/accuracy_gains.png)
