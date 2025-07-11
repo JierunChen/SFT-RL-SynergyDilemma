@@ -1,10 +1,7 @@
-# The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs
+# The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://www.arxiv.org/pdf/2507.07562)
 
-<div align="center">
-  
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://www.arxiv.org/pdf/2507.07562)
 
-</div>
+![image/png](assets/accuracy_gains.png)
 
 Large vision-language models (VLMs) increasingly adopt post-training techniques such as long chain-of-thought (CoT) supervised fine-tuning (SFT) and reinforcement learning (RL) to elicit sophisticated reasoning. While these methods exhibit synergy in language-only models, their joint effectiveness in VLMs remains uncertain. We present a systematic investigation into the distinct roles and interplay of long-CoT SFT and RL across multiple multimodal reasoning benchmarks. We find that
 
@@ -15,7 +12,6 @@ Long-CoT SFT enhances complex reasoning but becomes verbose and underperforms on
 - 📌 This "synergy dilemma" highlights the need for more seamless and adaptive approaches to unlock the full potential of combined post-training techniques for reasoning VLMs.
 
 
-![image/png](assets/accuracy_gains.png)
 
 ## Benchmarks with difficulty level tags
 
