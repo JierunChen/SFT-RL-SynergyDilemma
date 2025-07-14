@@ -26,7 +26,7 @@ Long-CoT SFT enhances complex reasoning but becomes verbose and underperforms on
 
 ## Our training dataset Eureka-Distill
 
-Coming soon.
+The 34k training dataset and 0.7k val dataset can be downloaded [here](https://huggingface.co/datasets/JierunChen/Eureka-Distill).
 
 ## Fine-tuned Models
 
