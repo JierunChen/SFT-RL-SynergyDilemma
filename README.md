@@ -41,9 +41,6 @@ The 34k training dataset and 0.7k val dataset can be downloaded [here](https://h
 | + Data Mixing | 29.2 | 51.2 | 72.0 | 55.1 | 62.7 | 54.0 | 🤗[link](https://huggingface.co/JierunChen/SFT-RL-SynergyDilemma-Data_Mixing)
 | + Model Merging | 29.6 | 50.4 | 71.8 | 53.7 | 66.2 | 54.3 | 🤗[link](https://huggingface.co/JierunChen/SFT-RL-SynergyDilemma-Model_Merging)
 
-## Training
-Code will be released soon. Please stay tuned :)
-
 ## Acknowledgement
 We train models using the [verl](https://github.com/volcengine/verl) and the [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) frameworks, and evaluate them using the [VLMEvalKit](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwje4ui7prSOAxWxdvUHHe3bN50QFnoECAoQAQ&url=https%3A%2F%2Fgithub.com%2Fopen-compass%2FVLMEvalKit&usg=AOvVaw0J3YwNySHLuWZHrhC_Gk9P&opi=89978449) framework.
 
